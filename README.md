@@ -66,3 +66,5 @@ spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
 spring.datasource.username=your_username
 spring.datasource.password=your_password
 
+
+![FB_IMG_1702328766169](https://github.com/jhantu626/Content-Management-API/assets/108252921/8e9371e4-9a0e-4127-bbca-994bcc75b2d2)
