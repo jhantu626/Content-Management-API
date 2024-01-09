@@ -1,4 +1,4 @@
-# Blog API
+# Content Management Api's
 
 Welcome to the Blog API project! This backend API is developed to power a highly secure blog application, leveraging Spring Security, Spring Boot, and end-to-end encryption protocols. It ensures the privacy of user data and maintains data integrity throughout the system.
 
