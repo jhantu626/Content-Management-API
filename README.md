@@ -21,7 +21,7 @@ To get started with the Blog API, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/jhantu626/blog-app-apis.git
+    https://github.com/jhantu626/Content-Management-API.git
     ```
 
 2. Navigate to the project directory:
