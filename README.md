@@ -8,6 +8,7 @@ Welcome to the Blog API project! This backend API is developed to power a highly
 - **Spring Boot**
 - **MySQL**
 - **Spring Data JPA**
+-  **Spring Security**
 - **Swagger**
 
 ## Project Overview
