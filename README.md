@@ -65,3 +65,15 @@ Configure your MySQL database connection details in the `application.properties`
 spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
 spring.datasource.username=your_username
 spring.datasource.password=your_password
+
+```
+## Screenshoots
+
+![1](https://github.com/jhantu626/Content-Management-API/assets/108252921/e67dae12-e3a0-4add-8133-d6bc07452c25)
+![2](https://github.com/jhantu626/Content-Management-API/assets/108252921/37d3ee4b-2770-48c3-9e43-12e272049aa7)
+![3](https://github.com/jhantu626/Content-Management-API/assets/108252921/9ab47ea6-ccd8-4efc-b513-bf027fd4718e)
+![4](https://github.com/jhantu626/Content-Management-API/assets/108252921/7ee4fe50-b4be-43db-8cad-70fb7571231e)
+![5](https://github.com/jhantu626/Content-Management-API/assets/108252921/aecf090d-f927-483d-843f-0a787f2c9174)
+
+
+
